@@ -66,7 +66,7 @@ namespace SimpleHotelRoomManagementProject_2
                 }
             }
 
-            //1. Add a new room (Room Number, Daily Rate) 
+            //1. Add a new room (Room Number, Daily Rate)// 
             static void AddNewRoom()
             {
                 Console.WriteLine("Enter Room Number: ");
