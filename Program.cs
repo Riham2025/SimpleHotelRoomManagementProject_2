@@ -34,7 +34,7 @@ namespace SimpleHotelRoomManagementProject_2
                     Console.WriteLine("3. Reserve a room for a guest..");
                     Console.WriteLine("4. View all reservations with total cost..");
                     Console.WriteLine("5. Search reservation by guest name..");
-                    Console.WriteLine("6. Find the highest-paying guest");
+                    Console.WriteLine("6. Find the highest-paying guest..");
                     Console.WriteLine("7. Cancel a reservation by room number ");
                     Console.WriteLine("0. Exit ");
                     Console.Write("Enter The Number Of Feature: ");
