@@ -30,7 +30,7 @@ namespace SimpleHotelRoomManagementProject_2
 
                     Console.WriteLine("Simple Hotel Room Management Project..");
                     Console.WriteLine("1. Add a new room..");
-                    Console.WriteLine("2. View all rooms");
+                    Console.WriteLine("2. View all rooms..");
                     Console.WriteLine("3. Reserve a room for a guest");
                     Console.WriteLine("4. View all reservations with total cost");
                     Console.WriteLine("5. Search reservation by guest name");
